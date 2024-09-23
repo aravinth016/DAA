@@ -14,7 +14,7 @@ bool is_prime(int n) {
 }
 
 int main() {
-    printf("B.MAHESH REDDY \n 192210708");
+    printf("ARAVINTH \n 192210579");
     int num;
 
     printf("\nEnter a number: ");
