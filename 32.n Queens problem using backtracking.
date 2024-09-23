@@ -51,7 +51,7 @@ void solveNQueens(int row, int n) {
 }
 
 int main() {
-	printf("B. MAHESH REDDY \n 192210708\n");
+	printf("ARAVINTH \n 192210579");
     int n;
     printf("Enter the number of queens (N): ");
     scanf("%d", &n);
