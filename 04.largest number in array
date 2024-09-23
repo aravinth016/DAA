@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("B.MAHESH REDDY \n 192210708");
+    printf("ARAVINTH \n 192210579");
     int n, i;
 
     printf("\nEnter the number of elements in the array: ");
