@@ -14,7 +14,7 @@ void fibseries(int n) {
 }
 
 int main() {
-    printf("B.MAHESH REDDY \n 192210708");
+    printf("ARAVINTH \n 192210579");
     int nth;
     printf("\nEnter the number of terms: ");
     scanf("%d", &nth);
