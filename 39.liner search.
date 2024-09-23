@@ -9,7 +9,7 @@ int linearSearch(int arr[], int size, int key) {
 }
 
 int main() {
-	printf("B. MAHESH REDDY \n 192210708\n");
+	printf("ARAVINTH \n 192210579");
     int size, key, index;
 
     printf("Enter the size of the array: ");
