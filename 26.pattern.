@@ -2,7 +2,7 @@
 int main()
 {
     int n;
-    printf("B.MAHESH REDDY \n192210708\n");
+    printf("ARAVINTH \n 192210579");
 	printf("Enter the no of rows:");
     scanf("%d",&n);
     for (int i = 1; i <= n; i++) {
