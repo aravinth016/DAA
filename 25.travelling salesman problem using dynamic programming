@@ -32,7 +32,7 @@ int tsp(int mask, int pos) {
 }
 
 int main() {
-	printf("B.MAHESH REDDY \n192210708\n");
+	printf("ARAVINTH \n 192210579");
     printf("Enter the number of cities: ");
     scanf("%d", &n);
 
