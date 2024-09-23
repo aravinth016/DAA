@@ -10,7 +10,7 @@ int gcd(int a, int b) {
 }
 
 int main() {
-    printf("B.MAHESH REDDY \n 192210708");
+    printf("ARAVINTH \n 192210579");
     int num1, num2;
 
     printf("\nEnter two integers: ");
