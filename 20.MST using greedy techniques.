@@ -75,7 +75,7 @@ void kruskal(int vertices, int edges) {
 
 int main() {
     int vertices, edges;
-    printf("B.MAHESH REDDY\n192210708\n");
+    printf("ARAVINTH \n 192210579");
     printf("Enter the number of vertices: ");
     scanf("%d", &vertices);
 
