@@ -2,7 +2,7 @@
 #include <math.h>
 
 int main() {
-    printf("B.MAHESH REDDY \n 192210708");
+    printf("ARAVINTH \n 192210579");
     int num, temp, sum = 0, digit, order = 0;
 
     printf("\nEnter a number: ");
